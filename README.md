@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @BINGOalTheDev
+- 👀 I’m interested in web-developing
+- 🌱 I’m currently learning HTML, CSS and JS
+- 💞️ I'm looking for a rookie team
+- 📫 My Discord - bingoal11
+- I also know russian language.
